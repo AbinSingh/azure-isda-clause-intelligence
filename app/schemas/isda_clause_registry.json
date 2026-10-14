@@ -1,0 +1,114 @@
+{
+    "document_type": "ISDA_2002_MASTER_AGREEMENT",
+    "registry_version": "1.0",
+    "sections": [
+        {
+            "clause_id": "section_1",
+            "clause_number": "1",
+            "clause_title": "Interpretation",
+            "level": 0,
+            "parent_clause_id": null,
+            "children": [
+                {
+                    "clause_id": "section_1_a",
+                    "clause_number": "1(a)",
+                    "clause_title": "Definitions",
+                    "level": 1,
+                    "parent_clause_id": "section_1",
+                    "children": []
+                },
+                {
+                    "clause_id": "section_1_b",
+                    "clause_number": "1(b)",
+                    "clause_title": "Inconsistency",
+                    "level": 1,
+                    "parent_clause_id": "section_1",
+                    "children": []
+                },
+                {
+                    "clause_id": "section_1_c",
+                    "clause_number": "1(c)",
+                    "clause_title": "Single Agreement",
+                    "level": 1,
+                    "parent_clause_id": "section_1",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "clause_id": "section_2",
+            "clause_number": "2",
+            "clause_title": "Obligations",
+            "level": 0,
+            "parent_clause_id": null,
+            "children": [
+                {
+                    "clause_id": "section_2_a",
+                    "clause_number": "2(a)",
+                    "clause_title": "General Conditions",
+                    "level": 1,
+                    "parent_clause_id": "section_2",
+                    "children": [
+                        {
+                            "clause_id": "section_2_a_i",
+                            "clause_number": "2(a)(i)",
+                            "clause_title": "",
+                            "level": 2,
+                            "parent_clause_id": "section_2_a",
+                            "children": []
+                        },
+                        {
+                            "clause_id": "section_2_a_ii",
+                            "clause_number": "2(a)(ii)",
+                            "clause_title": "",
+                            "level": 2,
+                            "parent_clause_id": "section_2_a",
+                            "children": []
+                        },
+                        {
+                              "clause_id": "section_2_a_iii",
+                              "clause_number": "2(a)(iii)",
+                              "clause_title": "",
+                              "level": 2,
+                              "parent_clause_id": "section_2_a",
+                              "children": []
+                            }
+                    ]
+                },
+                {
+                    "clause_id": "section_2_b",
+                    "clause_number": "2(b)",
+                    "clause_title": "Change of Account",
+                    "level": 1,
+                    "parent_clause_id": "section_2",
+                    "children": []
+                },
+                {
+                    "clause_id": "section_2_c",
+                    "clause_number": "2(c)",
+                    "clause_title": "Netting of Payments",
+                    "level": 1,
+                    "parent_clause_id": "section_2",
+                    "children": []
+                },
+                {
+                    "clause_id": "section_2_d",
+                    "clause_number": "2(d)",
+                    "clause_title": "Deduction or Withholding for Tax",
+                    "level": 1,
+                    "parent_clause_id": "section_2",
+                    "children": [
+                        {
+                            "clause_id": "section_2_d_i",
+                            "clause_number": "2(d)(i)",
+                            "clause_title": "Gross-Up",
+                            "level": 2,
+                            "parent_clause_id": "section_2_d",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
